@@ -1,5 +1,6 @@
 # KAN_interpretability
-This is the code implementation for our paper: Is KAN More Interpretable Than MLP? A Comparative Study on Image and Text Data. <br>
+This is the code implementation for our paper: <br>
+*Is KAN More Interpretable Than MLP? A Comparative Study on Image and Text Data* <br>
 The link to the paper will be added soon.
 
 ## Acknowledgement
