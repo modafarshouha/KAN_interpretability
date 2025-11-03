@@ -1,7 +1,6 @@
 # KAN_interpretability
 This is the code implementation for our paper: <br>
-*Is KAN More Interpretable Than MLP? A Comparative Study on Image and Text Data* <br>
-The link to the paper will be added soon.
+[Is KAN More Interpretable Than MLP? A Comparative Study on Image and Text Data](https://link.springer.com/chapter/10.1007/978-981-96-7945-4_10) <br>
 
 ## Acknowledgement
 In this work we compare MLPs to KANs. To do this, we use two KAN's variations; i.e. [Efficient-KAN](https://github.com/Blealtan/efficient-kan) and [ChebyKAN](https://github.com/SynodicMonth/ChebyKAN).
@@ -16,7 +15,17 @@ For the data, in addition to the well-known MNIST data set, we used AG_NEWS data
 
 ## Cite
 ```
-will be provided soon...
+@InProceedings{10.1007/978-981-96-7945-4_10,
+    author={Al-Shouha, Modafar and Sz{\H{u}}cs, G{\'a}bor},
+    editor={Farmanbar, Mina and Tzamtzi, Maria and Schoeffmann, Klaus and Kouvakas, Nikolaos and Verma, Ajit Kumar},
+    title={Is {KAN} More Interpretable than {MLP}? {A} Comparative Study on Image and Text Data},
+    booktitle={Horizons of AI: Ethical Considerations and Interdisciplinary Engagements},
+    year={2025},
+    publisher={Springer Nature Singapore},
+    address={Singapore},
+    pages={147--159},
+    isbn={978-981-96-7945-4}
+}
 ```
 
 ## License
